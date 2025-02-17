@@ -1,4 +1,4 @@
-# Understanding SVD through Image Compression
+# Understanding Singular Value Decomposition(SVD) through Image Compression
 
 **Try it live: [SVD Visualization App](https://svd-vis.streamlit.app)**
 
