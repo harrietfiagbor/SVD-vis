@@ -1,5 +1,7 @@
 # Understanding SVD through Image Compression
 
+**Try it live: [SVD Visualization App](https://svd-vis.streamlit.app)**
+
 This interactive visualization demonstrates how Singular Value Decomposition (SVD) can be used for image compression. Through this tool, we can build intuition about why SVD is such a powerful technique in linear algebra and its practical applications.
 
 ## The Mathematics Behind SVD
